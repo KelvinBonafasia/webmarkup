@@ -1,0 +1,3 @@
+student name: Kelvin Bonafasia
+student number: 675063
+student class: INFVT1D
